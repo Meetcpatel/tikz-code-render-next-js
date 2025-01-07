@@ -40,3 +40,10 @@ a {
     color-scheme: dark;
   }
 }
+
+/* Add this to your existing globals.css */
+.tikzjax {
+  display: block;
+  width: 100%;
+  margin: 1rem 0;
+}
